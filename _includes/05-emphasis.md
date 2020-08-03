@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Evreything on this **Earth** is Beautiful* __Unless you have a beautiful heart__
